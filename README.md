@@ -1,2 +1,2 @@
 # PomodoroTimer
-A pomodoro timer with the posiblity a having a few customizations.
+A pomodoro timer with the posiblity of having a few customizations.
